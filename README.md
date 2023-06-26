@@ -4,6 +4,10 @@
 Extracted features of images pkl file
 https://drive.google.com/file/d/1NqlKvbdQJ21EcWbx1qdhC2fZlzyDR6Jv/view
 
+# File structure
+![Screenshot 2023-06-26 135437](https://github.com/Naveen3251/Product_Recommendation_System/assets/114800360/429bab85-4b2c-4deb-b9d9-e454c53c70a7)
+
+
 # WorkFlow
 ![647e9cb4d4738_HackAIthon (1) pptx pptx (1)](https://github.com/Naveen3251/Product_Recommendation_System/assets/114800360/557ea8e5-b04c-4ee4-8d61-7c22558c5862)
 
