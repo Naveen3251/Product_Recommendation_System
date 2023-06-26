@@ -4,7 +4,11 @@
 Extracted features of images pkl file
 https://drive.google.com/file/d/1NqlKvbdQJ21EcWbx1qdhC2fZlzyDR6Jv/view
 
-Results
+# WorkFlow
+![647e9cb4d4738_HackAIthon (1) pptx pptx (1)](https://github.com/Naveen3251/Product_Recommendation_System/assets/114800360/557ea8e5-b04c-4ee4-8d61-7c22558c5862)
+
+
+# Results
 # Uploading the product image
 ![Screenshot 2023-06-26 102112](https://github.com/Naveen3251/Product_Recommendation_System/assets/114800360/6b688f0a-4518-4588-acca-5440a502ce99)
 
