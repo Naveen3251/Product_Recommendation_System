@@ -48,6 +48,7 @@ def feature_extraction(file,mod):
     #predicting
     result=mod.predict(preprocessed_input).flatten()
     #normalizing
+    #default L-2 norm ||x||₂ = √(x₁² + x₂² + ... + xₙ²)
     normalized_result=result/norm(result)
     return normalized_result
 
