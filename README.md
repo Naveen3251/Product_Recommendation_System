@@ -2,4 +2,4 @@
 
 # Embedings
 Extracted features of images pkl file
-https://mail.google.com/mail/u/3/#inbox/FMfcgzGsnLMDQpKqJxQzDcsNzSpfxJnG?projector=1
+https://drive.google.com/file/d/1NqlKvbdQJ21EcWbx1qdhC2fZlzyDR6Jv/view)https://drive.google.com/file/d/1NqlKvbdQJ21EcWbx1qdhC2fZlzyDR6Jv/view
