@@ -1,6 +1,6 @@
 # Product_Recommendation_System
 
-# Embedings
+# Embedings pickle file
 Extracted features of images pkl file
 https://drive.google.com/file/d/1NqlKvbdQJ21EcWbx1qdhC2fZlzyDR6Jv/view
 
